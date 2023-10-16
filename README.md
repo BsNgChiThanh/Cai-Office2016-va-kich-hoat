@@ -24,10 +24,30 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/be38f559-86e8-4227-adef-b81d6be05261)
   - Vậy là kích hoạt vĩnh viễn.
 
+- **Cách 2: Dùng KMS VL ALL AIO https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/7654b6a4-c953-4f01-8b7d-e13373b3da9e)
+  - Chọn phím 2 để được auto renew:
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/7b86d7f1-9f71-4936-b513-f31453163847)
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/4e556376-941f-4307-86e2-1ee7a8bbc434)
 
+- **Cách 3: Dùng Activate AIO Tools https://github.com/BsNgChiThanh/ActivateAIOTools**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/0b8eb460-83d1-4b69-9086-567e1f6d99c1)
+  - **Chọn O:**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/3678d395-2ad9-49cd-944a-0794741054ea)
+  - **Chọn 1:**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/7bd3593f-8680-474c-8139-a2a47e371d9a)
+  - **Chọn T:**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/f72feb97-53da-4725-b632-819a49127129)
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/6966fb26-5648-4bfc-b5fe-fb36cd1a16dd)
+  - **Em này phải gia hạn kích hoạt tự động hàng tuần.**
+  - **Bấm O**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/ffd4e981-8d25-4fcc-9fae-bfa9048d9aaf)
+  - **Bấm 4.**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/7bdae3ef-2d1f-4fc4-8001-85bc7d438307)
+  - **Bấm T.**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/e671e52a-c98f-4013-9500-9579aca77eda)
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/3eac01d6-accc-42e2-b9d7-3cf20a192d19)
+  - Ok.
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/8dde19e7-2314-497e-a61c-68344681dcf6)
 
-
-
-
-
-
+- **Chúc quý vị thành công!**
