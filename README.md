@@ -10,6 +10,7 @@
 - ![5](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/e26260bd-834e-41a5-8200-5428bc49abbc)
 - ![6](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/89b484c7-e9a6-491d-b4ab-936725300a43)
 - ![6](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/5d0c8311-f66b-4b84-914d-4ec838ca5589)
+- ![7](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/014a4e8f-dbaa-415a-8afb-2fd741a9538b)
 - Cài xong!
 
 
