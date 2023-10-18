@@ -47,7 +47,7 @@
   - **Bấm T.**
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/e671e52a-c98f-4013-9500-9579aca77eda)
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/3eac01d6-accc-42e2-b9d7-3cf20a192d19)
-  - Ok.
+  - OK! Mở Word lên, Vô File-->Account sẽ thấy:
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/8dde19e7-2314-497e-a61c-68344681dcf6)
 
 - **Chúc quý vị thành công!**
