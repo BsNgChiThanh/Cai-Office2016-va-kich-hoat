@@ -1,7 +1,7 @@
 # CÀI ĐẶT OFFICE 2016 VÀ KÍCH HOẠT VĨNH VIỄN #
 
 ## CÀI OFFICE 2016 ##
-- **Download [file cài đặt Office 2016 tuỳ chỉnh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc)** **Link [dự phòng](https://drive.google.com/file/d/114KD84z-tRkp61mycKbH4U8OO98wb5tM/view?usp=sharing)**
+- **Download [file cài đặt Office 2016 tuỳ chỉnh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc)** **Link [dự phòng](https://drive.google.com/file/d/114KD84z-tRkp61mycKbH4U8OO98wb5tM/view?usp=sharing) hoặc [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlusRetail.img)**
 - ![1](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/e1ddedf5-a0e8-4a21-9a2d-637918276001)
 - ![2](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/9eb104a2-900b-485b-8f42-9d20f31350f6)
 - ![3](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/be208d0a-706f-4e94-91a0-c70ccf938cff)
