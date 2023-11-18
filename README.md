@@ -4,6 +4,8 @@
 - **Download source [Office 2016](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc):** 
 - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2016_W32_English_MLF_X20-41353.ISO
 - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2016_64Bit_English_MLF_X20-42432.ISO
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/IMP/OfficeSetup2016x32en-us.exe
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/IMP/OfficeSetup2016x64en-us.exe
 - ![1](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/e1ddedf5-a0e8-4a21-9a2d-637918276001)
 - ![2](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/9eb104a2-900b-485b-8f42-9d20f31350f6)
 - ![3](https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat/assets/82578024/be208d0a-706f-4e94-91a0-c70ccf938cff)
